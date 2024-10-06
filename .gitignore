@@ -1,0 +1,11 @@
+.venv
+
+notebook/.ipynb_checkpoints
+
+**/*.db
+
+**/*.bkp
+
+**/__pycache__
+
+**.egg-info
